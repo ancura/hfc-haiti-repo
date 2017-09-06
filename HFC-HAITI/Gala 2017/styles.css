@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.main-container {
+	width: 100%;
+	height: auto;
+	background-image: url("20229716_10110967208867334_3557389569543565121_o.jpg");
+}
